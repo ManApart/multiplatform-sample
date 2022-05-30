@@ -3,7 +3,3 @@ object MultiSampleManager {
         println("Hello World!")
     }
 }
-
-fun main(){
-    println("Started")
-}
